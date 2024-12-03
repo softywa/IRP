@@ -43,3 +43,21 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/softywa/IRP.git
+```
+
+
+
+
+
+
+## **License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+---
+
+## **Contact
+For support or inquiries, reach out to us at:
+
+Email: support@softywa.com
+Website: Softywa Technology Development
+
