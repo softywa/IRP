@@ -50,12 +50,12 @@ git clone https://github.com/softywa/IRP.git
 
 
 
-## **License
+## **License**
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
 
-## **Contact
+## **Contact**
 For support or inquiries, reach out to us at:
 
 Email: support@softywa.com
