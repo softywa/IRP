@@ -57,7 +57,7 @@ Use the login credentials configured in the database or the admin interface.
 ---
 
 ## **License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT **[License](https://softywa.com/license)**. See the LICENSE file for more details.
 
 ---
 
@@ -65,5 +65,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For support or inquiries, reach out to us at:
 
 Email: support@softywa.com
-Website: Softywa Technology Development
+Website: **[Softywa Technology Development](https://softywa.com)**
 
