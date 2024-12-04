@@ -47,8 +47,14 @@ git clone https://github.com/softywa/IRP.git
 
 
 
+## **Connecting to Your Application**
+Access the Platform
+To access the platform:
 
+Navigate to ```http://localhost:3000```.
+Use the login credentials configured in the database or the admin interface.
 
+---
 
 ## **License**
 This project is licensed under the MIT License. See the LICENSE file for more details.
